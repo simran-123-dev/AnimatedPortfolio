@@ -99,14 +99,15 @@
   border-radius: 12px;
 
   /* 🔥 GRADIENT TEXT */
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     to right,
     rgb(136, 231, 231),
     white
   );
   background-clip: text;
   -webkit-background-clip: text;
-  color: transparent;
+  color: transparent; */
+  color:white;
 
   /* shadow same */
   box-shadow:
